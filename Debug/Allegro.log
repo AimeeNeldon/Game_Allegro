@@ -1,0 +1,49 @@
+﻿Build started 10/24/2011 1:08:12 PM.
+     1>Project "C:\Users\aneldon\Desktop\Allegro\Allegro.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Allegro.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Allegro.cpp AnimatedSprite.cpp EnemySprite.cpp ExplodingSprite.cpp FadingSprite.cpp FlashingSprite.cpp Game.cpp Sprite.cpp
+         Sprite.cpp
+         Game.cpp
+         FlashingSprite.cpp
+         FadingSprite.cpp
+         ExplodingSprite.cpp
+         EnemySprite.cpp
+         AnimatedSprite.cpp
+         Allegro.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Allegro.exe.embed.manifest.res" Debug\Allegro_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\aneldon\Desktop\Allegro\Debug\Allegro.exe" /INCREMENTAL /NOLOGO alleg.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Allegro.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\aneldon\Desktop\Allegro\Debug\Allegro.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\aneldon\Desktop\Allegro\Debug\Allegro.lib" /MACHINE:X86 Debug\Allegro.exe.embed.manifest.res
+         Debug\Allegro.obj
+         Debug\AnimatedSprite.obj
+         Debug\EnemySprite.obj
+         Debug\ExplodingSprite.obj
+         Debug\FadingSprite.obj
+         Debug\FlashingSprite.obj
+         Debug\Game.obj
+         Debug\Sprite.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Allegro.exe.embed.manifest" /manifest Debug\Allegro.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Allegro.exe.embed.manifest.res" Debug\Allegro_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\aneldon\Desktop\Allegro\Debug\Allegro.exe" /INCREMENTAL /NOLOGO alleg.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Allegro.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\aneldon\Desktop\Allegro\Debug\Allegro.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\aneldon\Desktop\Allegro\Debug\Allegro.lib" /MACHINE:X86 Debug\Allegro.exe.embed.manifest.res
+         Debug\Allegro.obj
+         Debug\AnimatedSprite.obj
+         Debug\EnemySprite.obj
+         Debug\ExplodingSprite.obj
+         Debug\FadingSprite.obj
+         Debug\FlashingSprite.obj
+         Debug\Game.obj
+         Debug\Sprite.obj
+         Allegro.vcxproj -> C:\Users\aneldon\Desktop\Allegro\Debug\Allegro.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Allegro.unsuccessfulbuild".
+         Touching "Debug\Allegro.lastbuildstate".
+     1>Done Building Project "C:\Users\aneldon\Desktop\Allegro\Allegro.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.21
